@@ -1,0 +1,2 @@
+GNU GPL v3.
+Author Anton Gladyshev.
