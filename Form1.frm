@@ -236,7 +236,7 @@ If Option1.Value = True Then
     End If
 End If
 If Option2.Value = True Then
-    If GetKeyState(vbKeyScrollock) = 1 Then
+    If GetKeyState(vbKeyScrollLock) = 1 Then
         If Option4.Value = True Then
         mouse_event MOUSEEVENTF_LEFTDOWN Or MOUSEEVENTF_LEFTUP, 0&, 0&, cButt, dwEI
         End If
